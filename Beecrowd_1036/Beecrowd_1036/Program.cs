@@ -19,15 +19,6 @@
             } else {
                 Console.WriteLine("Impossivel calcular");
             } 
-            
-
-           
-
-
-           
-
-            
-
         }
     }
 }
